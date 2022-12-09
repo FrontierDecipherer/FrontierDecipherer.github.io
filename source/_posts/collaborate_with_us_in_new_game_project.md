@@ -1,8 +1,9 @@
 ---
 title: 在新的游戏项目上与我们合作
-date: 2022-11-13
 tags: notice
 sitemap: true
+abbrlink: '76317e92'
+date: 2022-11-13 00:00:00
 ---
 
 ## 前言
